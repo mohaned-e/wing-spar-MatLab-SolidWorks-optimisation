@@ -44,9 +44,10 @@ Given a target wing (span, aerofoil, load case), the tool:
 /results/
     Full_Wing_Design.png
     Aerofoil_Graph.png
-    Bending_Displacment_Test.png
     Bending_Stress_Test.png
+    Bending_Displacement_Test.png
     Torisional_Stress_test.png
+    Torisional_Displacement_test.png
 README.md
 ```
 
